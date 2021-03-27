@@ -18,6 +18,9 @@
 
 DEVICE_PATH := device/hxy/BISON
 
+# A/B devices
+AB_OTA_UPDATER := true
+
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
 
